@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+font-size:300%
+}
+
+body {
+color:black;
+background-color:white;
+background-image:url(peppabg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+font: 1.2em "Fira Sans", sans-serif;
+}
+
+#corps{
+	font-size: 150%;
+}
