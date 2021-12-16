@@ -1,6 +1,7 @@
 h1{
 text-align: center;
-font-size:300%
+font-size:300%;
+text-decoration: underline;
 }
 
 body {
@@ -14,4 +15,10 @@ background-position: 50% 0%;
 font: 1.2em "Fira Sans", sans-serif;
 font-size: 200%;
 font-style: oblique 60deg;
+}
+
+h3 {
+text-align: center;
+font-size:250%;
+text-decoration: underline;
 }
