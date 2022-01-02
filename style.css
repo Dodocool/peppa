@@ -7,7 +7,7 @@ text-decoration: underline;
 body {
 color:black;
 background-color:white;
-background-image: url("peppabg.jpg");
+background-image: url("images/icon.png");
 background-color: #f265db;
 background-repeat: no-repeat;
 background-size: 50%;
@@ -23,3 +23,7 @@ font-size:250%;
 text-decoration: underline;
 }
 
+#test {
+	text-align: center;
+	font-size: 150%;
+}
